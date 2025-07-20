@@ -1,0 +1,11 @@
+/app/src/main/java/com/garbim/gbrs/GbrsApplication.java
+/app/src/main/java/com/garbim/gbrs/config/DataSeeder.java
+/app/src/main/java/com/garbim/gbrs/config/WebConfig.java
+/app/src/main/java/com/garbim/gbrs/controller/IndexApplication.java
+/app/src/main/java/com/garbim/gbrs/controller/TijoloController.java
+/app/src/main/java/com/garbim/gbrs/dto/RelatorioTijoloDTO.java
+/app/src/main/java/com/garbim/gbrs/dto/TijoloDTO.java
+/app/src/main/java/com/garbim/gbrs/model/Tijolo.java
+/app/src/main/java/com/garbim/gbrs/model/TijoloStatus.java
+/app/src/main/java/com/garbim/gbrs/repository/TijoloRepository.java
+/app/src/main/java/com/garbim/gbrs/service/TijoloService.java
